@@ -1,0 +1,16 @@
+{
+  "name": "hotelia",
+  "version": "1.0.0",
+  "description": "A hotel template",
+  "homepage": "https://morelmiles.github.io/hotelia",
+  "main": "index.js",
+  "scripts": {
+        "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Luigi Morel <morelmiles@gmail.com> (https://morelmiles.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
